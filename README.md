@@ -1,3 +1,6 @@
+# Assignment 1 : Openpit Coal Blasting
+The problem description is in Assignment1_FISA.pdf
+
 # Stock Market Closing Price Prediction
 
 #### Step 1:
